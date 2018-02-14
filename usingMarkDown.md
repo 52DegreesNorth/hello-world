@@ -1,15 +1,16 @@
 ### [Link to MarkDwon Guide](https://guides.github.com/features/mastering-markdown/)
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-Syntax guide
+### Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
-Headers
+`inline code`
 
-# This is an <h1> tag
+#### Headers
+
+``` # This is an <h1> tag
 ## This is an <h2> tag
-###### This is an <h6> tag
+###### This is an <h6> tag```
+
 Emphasis
 
 *This text will be italic*
