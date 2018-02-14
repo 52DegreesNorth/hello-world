@@ -3,17 +3,17 @@
 ### Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
-`inline code`
-```blocks of code line 1
-   blocks of code line 2
-```   
-   
 
-#### Headers
+### Headers
 
-``` # This is an <h1> tag
+```
+# This is an <h1> tag
 ## This is an <h2> tag
-###### This is an <h6> tag```
+###### This is an <h6> tag
+```
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
 
 Emphasis
 
